@@ -1,0 +1,21 @@
+[
+    {
+        "id"  : "1",
+        "name": "John",
+        "company":"xyz",
+        "phone":"900000009"
+    },
+    {
+        "id"  : "2",
+        "name": "Steve Jobs",
+        "company":"Apple",
+        "phone":"910000009"
+    },
+    {
+        "id"  : "3",
+        "name": "Elon Musk",
+        "company":"Tesla",
+        "phone":"920000009"
+    }
+
+]
